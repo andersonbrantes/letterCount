@@ -1,0 +1,1 @@
+# letterCount jQuery Plugin
